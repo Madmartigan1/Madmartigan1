@@ -1,4 +1,4 @@
-### Hi, I'm Madmartigan 👾
+### Hi, I'm Aleks 👾
 
 Cybersecurity specialist (CISSP · CEH) with 17+ years in hacking and defense, University of Miami
 engineering grad, retro gamer and 80s cinema fan.
