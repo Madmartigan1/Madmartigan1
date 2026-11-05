@@ -35,4 +35,4 @@ grew up with — often with every sprite and sound generated in code.
 
 ---
 
-<sub>Insert coin to continue.</sub>
+🪙 Insert coin to continue → [**Insert Coin**](https://github.com/Madmartigan1/insert-coin), my controller-driven retro game launcher.
